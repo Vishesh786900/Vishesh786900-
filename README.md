@@ -1,4 +1,4 @@
-# 💫 About Me:
+#💫 About Me:
 🎓 First Year Computer Science Student (AI/ML) <br>🤖 Passionate about Artificial Intelligence & Machine Learning <br>💡 Learning Python, DSA, and problem-solving 🚀<br>
 
 
